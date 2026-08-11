@@ -336,7 +336,7 @@ a{
 
 .events{
     padding:80px 5%;
-    background:var(--light);
+    background:#f8f9fa;
 }
 
 .event-heading{
